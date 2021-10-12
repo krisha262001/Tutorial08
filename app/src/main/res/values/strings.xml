@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tutorial08</string>
+    <string name="welcome">Welcome !!!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="newtab">Not A Member Yet? Get Register</string>
+    <string name="save">Save</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_email_as_username">Enter Email as Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="it">It</string>
+    <string name="ce">CE</string>
+    <string-array name="citylist">
+        <item>Junagadh</item>
+        <item>Rajkot</item>
+        <item>Ahmedabad</item>
+        <item>Baroda</item>
+        <item>Surat</item>
+    </string-array>
+    <string name="profile_status_active_inactive">Profile Status Active / Inactive</string>
+    <string name="register_me">Register Me</string>
+</resources>
